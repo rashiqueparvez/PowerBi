@@ -1,0 +1,32 @@
+# 👥 HR Analytics Dashboard
+
+# Objective:
+To analyze employee demographics, job satisfaction, education background, and attrition patterns to identify key drivers of employee turnover and improve retention strategies.
+
+# Key Insights:
+
+- 🏢 Total Employees: 1,480 with an Average Tenure: 7.01 years
+
+- 📉 Attrition Count: 238 employees left the company, resulting in an Attrition Rate: 16.08%
+
+- 💰 Average Salary Hike: 15.21%, indicating moderate compensation growth across departments
+
+- 👨‍💼 Top Job Roles: Sales Executive (329), Research Scientist (293), and Laboratory Technician (147) form the majority of workforce
+
+- 🎓 Education Profile: 39% of employees hold a Bachelor’s degree; Life Sciences and Medical fields dominate the employee base
+
+- 💵 Salary Distribution: Majority (753 employees) earn up to ₹5K; a smaller fraction (133 employees) fall in ₹15K+ range
+
+- 💡 Attrition Trends: Higher turnover among employees in Sales and Research roles with lower satisfaction scores
+
+- ❤️ Employee Satisfaction: Most employees rate relationship and job satisfaction between 3–4 out of 5, showing room for engagement improvement
+
+# Dashboard Features:
+
+- Filters for Department, Overtime, Marital Status, Business Travel, and Attrition
+
+- KPIs for Attrition Count, Rate %, Avg Tenure, and Salary Hike %
+
+- Visuals used: Donut Charts, Bar Charts, Tree Maps, and KPI Cards
+
+- Detailed breakdown by Education Level, Field, Salary Slab, and Job Role
