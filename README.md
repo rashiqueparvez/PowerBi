@@ -83,6 +83,4 @@ Financial Risk Metrics – Trend analysis for year-on-year loan and default chan
 
 In short, the Loan Default & Risk Analysis Dashboard delivers actionable insights to reduce non-performing loans and improve portfolio quality across customer segments.
 
-## Snapshot of dashboard,
 
-"https://github.com/user-attachments/assets/f51478ee-6b56-4e1e-8028-0e1a90c5ca29"
